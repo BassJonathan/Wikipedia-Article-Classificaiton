@@ -3,8 +3,17 @@ mwparserfromhell==0.6.4
 mwtypes==0.3.2
 mwxml==0.3.3
 
+pandas==2.0.1
+numpy==1.23.2
+
 tensorboard==2.12.3
 tensorboard-data-server==0.7.0
 tensorflow-estimator==2.12.0
 tensorflow-macos==2.12.0
 tensorflow-metal==0.8.0
+
+sklearn==1.2.2
+imblearn==0.10.1
+
+plotly==5.14.1
+prettytable==3.8.0
